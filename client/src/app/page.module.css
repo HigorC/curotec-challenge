@@ -1,0 +1,22 @@
+.todoCard {
+  border: 1px solid #ccc;
+  padding: 30px 5px;
+  background-color: aliceblue;
+
+}
+
+.todoCardCompleted {
+  background-color: green;
+}
+
+section.userSection {
+  /* backgron */
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+
+}
+
+.todoCompleted {
+  background-color: green;
+}
