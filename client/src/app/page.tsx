@@ -167,4 +167,3 @@ export default function Home() {
     </div>
   )
 }
-// erubiel@curotec.com
